@@ -1,0 +1,7 @@
+# .gitignore
+data/
+*.pth
+*.h5
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
