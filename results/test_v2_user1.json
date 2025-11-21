@@ -1,0 +1,7 @@
+{
+    "tested_by": "User 1",
+    "model": "model_v2 (MobileNetV2)",
+    "dataset": "Plant Village",
+    "accuracy": 0.814235,
+    "notes": "Model generalized well despite domain shift. Global class mapping ensured correct inference."
+}
