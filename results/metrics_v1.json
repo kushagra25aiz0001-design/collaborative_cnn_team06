@@ -1,5 +1,5 @@
 {
-    "accuracy": 0.0935077519379845,
+    "accuracy": 0.815077519379845,
     "dataset": "PlantVillage(emmarex dataset 1)",
     "model": "resnet18",
     "num_classes": 15
